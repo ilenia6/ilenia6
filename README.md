@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ilenia 👩🏾‍💻
 
-<!--
-**ilenia6/ilenia6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatician · Data Scientist · Workflow Engineer**  
+📍 Bari, Italy &nbsp;|&nbsp; 🔬 Genomics meets Data Science &nbsp;|&nbsp; 🎶 Music & 📷 Film Photography
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I'm a computational biologist transitioning into industry data science, with 4+ years of experience building reproducible pipelines for genomic and transcriptomic data analysis.
+
+I've worked within international consortia (ERGA) on genome assembly and large-scale sequencing data — and I'm currently expanding into machine learning and AI applications.
+
+I like hard problems, clean code, and things that actually work.
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Nextflow](https://img.shields.io/badge/Nextflow-1abc9c?style=flat)
+![Snakemake](https://img.shields.io/badge/Snakemake-3776AB?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [orthogen](https://github.com/ilenia6/orthogen) | Integrates OMA orthology results with cross-database functional annotations | Python, Biopython, Pandas |
+| [bioinfo-utils](https://github.com/ilenia6/bioinfo-utils) | Utilities for transcriptome filtering and GFF restructuring | Python, Pandas |
+| [EARs_Bari](https://github.com/ilenia6/EARs_Bari) | ERGA genome assembly QC and reporting framework | Python |
+| sMeal *(coming soon)* | Personal meal tracking app with AI interface | Python, Claude API |
+
+---
+
+## 📚 Currently learning
+
+- Generative AI & LLM applications (IBM, Coursera)
+- ML for genomics & clinical data
+
+---
+
+## 🌐 Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ilenia6.github.io-blue?style=flat)](https://ilenia6.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilenia%20Urso-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ilenia-urso-968255150/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6439--6943-A6CE39?style=flat&logo=orcid)](https://orcid.org/0000-0002-6439-6943)
