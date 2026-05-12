@@ -1,17 +1,15 @@
 # Hi, I'm Ilenia 👩🏾‍💻
 
 **Bioinformatician · Data Scientist · Workflow Engineer**  
-📍 Bari, Italy &nbsp;|&nbsp; 🔬 Genomics | Data Science &nbsp;|&nbsp; 🎶 Music & 📷 Film Photography
+📍 Bari, Italy &nbsp;|&nbsp; 🔬 Genomics meets Data Science &nbsp;|&nbsp; 🎶 Music & 📷 Film Photography
 
 ---
 
 ## About me
 
-I'm a computational biologist transitioning into industry data science, with 4+ years of experience building reproducible pipelines for genomic and transcriptomic data analysis.
+I'm a **bioinformatician and data scientist** with a research-driven mindset and 4+ years of experience building reproducible pipelines for genomic and transcriptomic data analysis.
 
-I've worked within international consortia (ERGA) on genome assembly and large-scale sequencing data — and I'm currently expanding into machine learning and AI applications.
-
-I like hard problems, clean code, and things that actually work.
+I've worked within international consortia (ERGA) on genome assembly, variant calling, and large-scale sequencing data — and I'm currently expanding into machine learning and AI applications.
 
 ---
 
@@ -34,15 +32,14 @@ I like hard problems, clean code, and things that actually work.
 |---|---|---|
 | [orthogen](https://github.com/ilenia6/orthogen) | Integrates OMA orthology results with cross-database functional annotations | Python, Biopython, Pandas |
 | [bioinfo-utils](https://github.com/ilenia6/bioinfo-utils) | Utilities for transcriptome filtering and GFF restructuring | Python, Pandas |
-| [EARs_Bari](https://github.com/ilenia6/EARs_Bari) | ERGA genome assembly QC and reporting framework | Python |
 | sMeal *(coming soon)* | Personal meal tracking app with AI interface | Python, Claude API |
 
 ---
 
 ## 📚 Currently learning
 
-- Generative AI & LLM applications (IBM, Coursera)
-- ML for genomics & clinical data
+- Machine learning and AI applications (DeepLearning.AI, Coursera)
+- Generative AI & LLM integration (IBM, Coursera)
 
 ---
 
