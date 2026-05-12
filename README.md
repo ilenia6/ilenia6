@@ -1,7 +1,7 @@
 # Hi, I'm Ilenia 👩🏾‍💻
 
 **Bioinformatician · Data Scientist · Workflow Engineer**  
-📍 Bari, Italy &nbsp;|&nbsp; 🔬 Genomics meets Data Science &nbsp;|&nbsp; 🎶 Music & 📷 Film Photography
+📍 Bari, Italy &nbsp;|&nbsp; 🔬 Genomics | Data Science &nbsp;|&nbsp; 🎶 Music & 📷 Film Photography
 
 ---
 
